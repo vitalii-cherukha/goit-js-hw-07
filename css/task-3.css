@@ -1,0 +1,19 @@
+.name-input {
+  width: 360px;
+  margin-bottom: 16px;
+  padding: 8px 16px;
+  border: 1px solid #808080;
+  border-radius: 4px;
+  font-size: 16px;
+  line-height: 1.5;
+  transition: border-color 250ms linear;
+}
+
+.name-input:hover {
+  border-color: #000000;
+}
+
+.title {
+  font-size: 25px;
+  line-height: 1.33;
+}

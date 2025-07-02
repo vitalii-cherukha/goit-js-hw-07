@@ -1,0 +1,19 @@
+.item {
+  width: 392px;
+  margin-bottom: 24px;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: #f6f6fe;
+}
+
+.item li {
+  padding: 8px 16px;
+  margin-bottom: 8px;
+  border: 1px solid #808080;
+  border-radius: 4px;
+}
+
+.item h2 {
+  margin-bottom: 16px;
+  line-height: 1.33;
+}
